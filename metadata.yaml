@@ -1,0 +1,29 @@
+_repo: Stirling-Castle-its-place-in-Scottish-history_51261
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cameron, Hugh Armstrong
+    gutenberg_agent_id: '46333'
+    url: http://www.gutenberg.org/2009/agents/46333
+creator:
+  author:
+    agent_name: Stair-Kerr, Eric
+    gutenberg_agent_id: '46332'
+    url: http://www.gutenberg.org/2009/agents/46332
+description: ''
+gutenberg_issued: '2016-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historic buildings -- Scotland -- Stirling (Stirling)'
+- !lcsh 'Stirling Castle (Stirling, Scotland)'
+- !lcc 'DA'
+- !lcsh 'Scotland -- History'
+- GITenberg
+title: Stirling Castle, its place in Scottish history
+url: http://www.gutenberg.org/ebooks/51261
