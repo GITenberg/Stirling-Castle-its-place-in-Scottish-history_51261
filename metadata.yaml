@@ -1,16 +1,21 @@
 _repo: Stirling-Castle-its-place-in-Scottish-history_51261
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cameron, Hugh Armstrong
     gutenberg_agent_id: '46333'
     url: http://www.gutenberg.org/2009/agents/46333
+covers:
+- cover_type: archival
+  image_path: 51261-h/images/cover.jpg
 creator:
   author:
     agent_name: Stair-Kerr, Eric
     gutenberg_agent_id: '46332'
     url: http://www.gutenberg.org/2009/agents/46332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51261#Stirling-Castle-its-place-in-Scottish-history
 gutenberg_issued: '2016-02-20'
 gutenberg_type: Text
 identifiers:
